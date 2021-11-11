@@ -1,0 +1,19 @@
+{
+  "name": "cipher-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "cipher-tool": "./bin/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denzel-commits/basic-nodejs-2021Q4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denzel-commits/basic-nodejs-2021Q4/issues"
+  },
+  "homepage": "https://github.com/denzel-commits/basic-nodejs-2021Q4#readme"
+}
